@@ -1,4 +1,4 @@
-## Opa, eu me chamo Eduardo Nascimento Alves 🫡
+## Opa, eu me chamo Eduardo Nascimento Alves
 
 ### ⚡ Sobre mim: 
 
