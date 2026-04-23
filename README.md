@@ -8,10 +8,12 @@
 - Gosto de jogar futebol e sou torcedor do Palmeiras e Barcelona;
 - Amo passar tempo com a minha família e amigos.
 
+### Ferramentas que uso e vou usar:
+
 <div>
   <img align="center" alt="Eduardo-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eduardo-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eduardo-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 #
