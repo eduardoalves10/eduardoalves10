@@ -1,6 +1,6 @@
 ## Opa, eu me chamo Eduardo Nascimento Alves
 
-### ⚡ Sobre mim: 
+###  Sobre mim: 
 
 - Estou fazendo o curso de Front-End no SENAI pelo Entra21;
 - Estou no Segundo ano do Ensino Médio;
