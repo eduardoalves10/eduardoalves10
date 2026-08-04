@@ -3,12 +3,11 @@
 ###  Sobre mim: 
 
 - Estou fazendo o curso de Front-End no SENAI pelo Entra21;
-- Estou no Segundo ano do Ensino Médio;
-- Tenho 17 anos;
-- Gosto de jogar futebol e sou torcedor do Palmeiras e Barcelona;
-- Amo passar tempo com a minha família e amigos.
+- Estou aprendendo HTML, CSS, JavaScript, Angular e TypeScript;
+- Sou um desenvolvedor em formação;
+- Tenho 17 anos.
 
-### Ferramentas que uso e vou usar:
+### Um pouco do que eu já aprendi do meu curso:
 
 <div>
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
