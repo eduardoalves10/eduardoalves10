@@ -7,7 +7,7 @@
 - Sou um desenvolvedor em formação;
 - Tenho 17 anos.
 
-### Um pouco do que eu já aprendi do meu curso:
+### Ferramentas que eu uso:
 
 <div>
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
