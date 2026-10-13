@@ -2,10 +2,8 @@
 
 ###  Sobre mim: 
 
-- Estou fazendo o curso de Front-End no SENAI pelo Entra21;
-- Estou aprendendo HTML, CSS, JavaScript, Angular e TypeScript;
-- Sou um desenvolvedor em formação;
-- Tenho 17 anos.
+- Desenvolvedor Front-end em formação;
+- HTML | CSS | JavaScript | Angular | TypeScript;
 
 ### Ferramentas que eu uso:
 
