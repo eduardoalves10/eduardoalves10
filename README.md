@@ -18,6 +18,13 @@
 #
 
 <div>
-  <a href="https://instagram.com/eduardo_nascimento_alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@EduardoAlves_10/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-nascimento-alves">
+    <img src="./assets/linkedin.svg" alt="LinkedIn" height="28">
+  </a>
+  <a href="https://www.instagram.com/eduardo_nascimento_alves">
+    <img src="./assets/instagram.svg" alt="Instagram" height="28">
+  </a>
+  <a href="https://www.youtube.com/@EduardoAlves_10/">
+    <img src="./assets/youtube.svg" alt="YouTube" height="28">
+  </a>
 </div>
